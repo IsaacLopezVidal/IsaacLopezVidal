@@ -1,4 +1,4 @@
-<header>
+<header align="center">
         <h3> Hi there! I'm Isaac </h3>
 </header>
 <section align="center">
