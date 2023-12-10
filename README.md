@@ -1,12 +1,16 @@
-### Hi there! 👋 I'm Isaac
-
+<center>
+    <h3> Hi there! I'm Isaac </h3>
+</center>
+<img alt="Dev1" src="./docs/assets/dev2.jpeg" align="left" stlyle="witdh=100px">
+<img alt="Dev1" src="./docs/assets/dev3.jpeg" align="right">
+<img alt="Dev1" src="./docs/assets/dev1.jpeg" align="center">
 <!--
 **IsaacLopezVidal/IsaacLopezVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-📄 &nbsp;Please have a look at my [CV](https://isaaclopezvidal.github.io/IsaacLopezVidal/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](./docs/_ISAAC%20_ANGEL_LOPEZ_VIDAL.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
