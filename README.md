@@ -1,8 +1,8 @@
 <center>
     <h3> Hi there! I'm Isaac </h3>
-    <img alt="Dev1" src="./docs/assets/dev2.jpeg"  width="30%" align="left">
-    <img alt="Dev1" src="./docs/assets/dev1.jpeg"  width="30%" align="center">
-    <img alt="Dev1" src="./docs/assets/developer.jpeg"  width="30%" align="right">
+    <img alt="Dev1" src="./docs/assets/dev2.jpeg"  width="20%" align="left">
+    <img alt="Dev1" src="./docs/assets/dev1.jpeg"  width="20%" align="center">
+    <img alt="Dev1" src="./docs/assets/developer.jpeg"  width="20%" align="right">
 </center>
 <!--
 **IsaacLopezVidal/IsaacLopezVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
