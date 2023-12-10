@@ -1,5 +1,5 @@
-<header align="center">
-        <h3> Hi there! I'm Isaac </h3>
+<header >
+        <h3 align="center"> Hi there! I'm Isaac </h3>
 </header>
 <section align="center">
     
