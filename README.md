@@ -11,6 +11,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
  <b>+5 years of experience in software development, actively seeking to enhance my skills and competencies in order to make a meaningful contribution to every project I engage in.</b>
+ 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 📄 &nbsp;Please have a look at my [CV](./docs/_ISAAC%20_ANGEL_LOPEZ_VIDAL.pdf) for more details about me. I'm open to feedback and suggestions!
 
