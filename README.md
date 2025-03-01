@@ -13,7 +13,7 @@
  <b>+5 years of experience in software development, actively seeking to enhance my skills and competencies in order to make a meaningful contribution to every project I engage in.</b>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-📄 &nbsp;Please have a look at my [CV](https://docs.google.com/document/d/1zob7Asv83lQ4DC1IpbI9w8YhcaZy1gaNFYXvLRTgKng/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://docs.google.com/document/d/e/2PACX-1vR3i-E6iSsUq7mnQLCE4xSHY0TXfGzT08DpBYyRuM-9zfHZWsL0RoXn-g2E4qXRbsdfsnMyMdvU0cWK/pub) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
